@@ -21,6 +21,7 @@ As for the components used:
 - ELEGOO HC-SR04 ultrasonic sensor
 - Passive Buzzer
 - AZDelivery HC-05 HC-06 Bluetooth Wireless, RF Transceptor Module, RS232 Serial TTL Bluetooth
+- 10k potentiometer
 
 The pins used for each peripheral were the following: 
 
