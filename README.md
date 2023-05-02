@@ -15,13 +15,14 @@ The Lab project consists in the development of a robot with an obstacle detectio
 All goals for the project were met and the robot is capable of moving both in RC mode controlled by the phone and in self driving mode. 
 
 As for the components used: 
-- Development board NUCLEO-L152RE 
-- AptoFun 2WD Motor Smart Car Chassis for Arduino- with 2 Gear Motor and Battery Box
-- ARCELI 5 PCS L298N  motor driver
-- ELEGOO HC-SR04 ultrasonic sensor
-- Passive Buzzer
-- AZDelivery HC-05 HC-06 Bluetooth Wireless, RF Transceptor Module, RS232 Serial TTL Bluetooth
-- 10k potentiometer
+  - Development board NUCLEO-L152RE 
+  - AptoFun 2WD Motor Smart Car Chassis for Arduino- with 2 Gear Motor and Battery Box
+  - ARCELI 5 PCS L298N  motor driver
+  - ELEGOO HC-SR04 ultrasonic sensor
+  - Passive Buzzer
+  - AZDelivery HC-05 HC-06 Bluetooth Wireless, RF Transceptor Module, RS232 Serial TTL Bluetooth
+  - 10k potentiometer
+  - For the bluetooth control of the robot I used the 'Serial Bluetooth Terminal' app only available on Android
 
 The pins used for each peripheral were the following: 
 
