@@ -11,5 +11,19 @@ The Lab project consists in the development of a robot with an obstacle detectio
   - Generate acoustic signals depending on the proximity of the obstacle
   - Communication with a device (PC or mobile phone), which includes receiving commands
   - Bluetooth communication with a mobile phone that controls the robot movement
+  
+All goals for the project were met and the robot is capable of moving both in RC mode controlled by the phone and in self driving mode. 
+
+As for the components used: 
+- Development board NUCLEO-L152RE 
+- AptoFun 2WD Motor Smart Car Chassis for Arduino- with 2 Gear Motor and Battery Box
+- ARCELI 5 PCS L298N  motor driver
+- ELEGOO HC-SR04 ultrasonic sensor
+- Passive Buzzer
+- AZDelivery HC-05 HC-06 Bluetooth Wireless, RF Transceptor Module, RS232 Serial TTL Bluetooth
+
+The pins used for each peripheral were the following: 
+
+![image](https://user-images.githubusercontent.com/75577062/235641612-61ee64b7-379e-4464-baad-91b4353d0e8d.png)
 
 All the rest of the documentation is in the Report document, where a block diagram, flowcharts and description of the peripherals can be found
