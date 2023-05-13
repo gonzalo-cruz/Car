@@ -1,5 +1,5 @@
 # RC-object-avoiding-robot
-Lab project for microprocessor-based digital systems, developed in a Nucleo-L152RE in C languaje with the STM32 IDE
+Lab project for microprocessor-based digital systems, developed in a Nucleo-L152RE in C languaje with the STM32 IDE.
 The Lab project consists in the development of a robot with an obstacle detection mechanism. The functionalities that are sought are the following:
 
   - Movement forward and backward in a straight line
