@@ -476,8 +476,6 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  //send_String(1,"STARTING IN AUTOMATIC MODE:\r\n");
-  //send_String(2,"STARTING IN AUTOMATIC MODE:\r\n");
   send_String("ACTIVE\r\n");
   while (1)
   {
